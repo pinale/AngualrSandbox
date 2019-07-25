@@ -1,2 +1,0 @@
-# AngualrSandbox
-Created with CodeSandbox
